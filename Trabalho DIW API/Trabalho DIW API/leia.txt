@@ -1,0 +1,6 @@
+Olá! Tudo bem? Para facilitar sua vida nessa correção aqui vão algumas informações importantes:
+1) A responsividade desse projeto foi feita tendo como base o iPhone X como aparelho mobile. 
+
+2) Aqui está o link para o site hospedado: https://gdaf-films-1.gabrielladantas.repl.co/
+
+Espero que goste do trabalho!

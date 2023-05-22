@@ -1,0 +1,80 @@
+body{
+    background-color: #0e0e0e;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.fotoFilme{
+    width: 320px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px #070707;
+}
+#divFilmes{
+    color: white;
+    font-size: 20px;
+}
+#navegacaobarra{
+    background-color: #000000;
+}
+#classificacao, #dataLancamento, #genero, #duracao{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: white;
+    padding: 10px;
+}
+#classificacao{
+    border: 1px solid;
+    border-color: white;
+    margin-right: 8px;
+    margin-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#titulo{
+    color: rgb(107,13,13);
+    font-size: 50px;
+    box-shadow: 0 5px 0 0 rgb(51, 50, 50);
+    margin-bottom: 30px;
+}
+#subtitulo{
+    color: rgb(73, 72, 72);
+    font-weight: 800;
+}
+#sinopse{
+    color: rgb(177, 174, 174);
+    font-weight: 600;
+    font-size: 17px;
+}
+
+@media screen and (max-width: 640px) {
+    #navegacaobarra{
+        width: 375px;
+        z-index: 9999;
+    }
+    }
+    @media screen and (max-width: 390px) {
+        #navegacaobarra{
+            width: 375px;
+            z-index: 9999;
+        }
+        }
+        @media screen and (max-width: 390px) {
+            .fotoFilme{
+                width: 320px;
+            }
+            }
+            @media screen and (max-width: 390px) {
+                #main{
+                    margin-left: 15px;
+                }
+                }
+
+                @media screen and (max-width: 390px) {
+                    #dataLancamento{
+                        font-size: 15px;
+                    }
+                    }
+    
+    
